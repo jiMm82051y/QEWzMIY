@@ -12,5 +12,4 @@
 ./tests/.tox
 ./tests/.venv
 **/*.pyc
-**/__pycache__
 ./management-state/
