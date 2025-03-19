@@ -40,7 +40,6 @@
                 "ClassDeclaration": true,
                 "ArrowFunctionExpression": false,
                 "FunctionExpression": false
-            }
         }]
     }
 }
