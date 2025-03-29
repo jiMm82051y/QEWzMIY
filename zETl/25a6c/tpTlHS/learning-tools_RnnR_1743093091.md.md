@@ -1,7 +1,6 @@
 # 90DaysOfDevOps
 
 <p align="center">
- <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
 English Version | [Versión en Castellano](2022/es/README.md) | [中文版本](2022/zh_cn/README.md) | [繁體中文版本](2022/zh_tw/README.md)| [日本語版](2022/ja/README.md) | [Wersja Polska](2022/pl/README.md) | [Tiếng Việt](2022/vi/README.md) | [한국어](2022/ko/README.md)
